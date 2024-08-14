@@ -1,5 +1,5 @@
 alert("Bem vindo ao Jogo do Número Secreto");
-let numeroSecreto = 5;
+let numeroSecreto = 8;
 let inputNumero = prompt("Escolha um número entre 1 e 30: ");
 
 if (numeroSecreto == inputNumero) {
